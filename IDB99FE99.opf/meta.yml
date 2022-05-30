@@ -1,0 +1,46 @@
+id: IDB99FE99
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:27:25.032874'
+last_modified: '2022-05-30T18:27:25.032879'
+parser: null
+source_metadata:
+  title: Chögyal Pakpa Lodrö Gyaltsen
+  language: bo
+  description: 'Texts by and about the great Sakya master Chögyal Pakpa Lodrö Gyaltsen
+    (chos rgyal ’phags pa blo gros rgyal mtshan, 1235–1280):'
+  volume:
+    fA75B:
+      title: Dhāraṇī of Goddess Parṇaśavarī
+      base_file: fA75B.txt
+      order: 1
+      parent: Dhāraṇī
+    f4ACB:
+      title: Short Maṇḍala Offering
+      base_file: f4ACB.txt
+      order: 2
+      parent: Offering
+    f7DD5:
+      title: Thirty-Seven Point Maṇḍala Offering
+      base_file: f7DD5.txt
+      order: 3
+      parent: Offering
+    f22EB:
+      title: Töpa Gyatsoma Offering Prayer
+      base_file: f22EB.txt
+      order: 4
+      parent: Offering
+    fCD4A:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: fCD4A.txt
+      order: 5
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
